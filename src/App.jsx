@@ -61,14 +61,24 @@ const TALKS = [
 
 const PRESS = [
   {
-    title: 'Executive Producer of IPO Series with Amazon & Sony Pictures',
-    source: 'Variety + Deadline',
-    url: 'https://news.kmikeym.com/mike-merrill-to-executive-produce-ipo-series-with-amazon-and-sony-pictures-television/'
+    title: 'Meet the Man Who Sold His Fate to Investors at $1 a Share',
+    source: 'WIRED',
+    url: 'https://www.wired.com/2013/03/ipo-man/'
   },
   {
-    title: 'The Man Who Sold Shares of Himself',
-    source: 'The Hustle',
-    url: 'https://news.kmikeym.com/the-man-who-sold-shares-of-himself/'
+    title: 'One-Man IPO: Man Sells Shares in His Own Life',
+    source: 'TODAY Show',
+    url: 'https://www.today.com/video/one-man-ipo-man-sells-shares-in-his-own-life-23803459584'
+  },
+  {
+    title: 'How One Man Turned Himself Into a Publicly Owned Company',
+    source: 'The Atlantic',
+    url: 'https://www.theatlantic.com/magazine/archive/2013/04/putting-the-i-in-ipo/309255/'
+  },
+  {
+    title: 'The Publicly Traded Human Goes NSFW',
+    source: 'Playboy',
+    url: 'https://www.playboy.com/read/the-publicly-traded-human-goes-nsfw'
   },
   {
     title: 'Meet The Man Selling Influence Over His Personal Life Decisions',
@@ -76,9 +86,14 @@ const PRESS = [
     url: 'https://news.kmikeym.com/meet-the-man-selling-influence-over-his-personal-life-decisions/'
   },
   {
-    title: 'Meet the Man Who Sold His Fate to Investors at $1 a Share',
-    source: 'WIRED',
-    url: 'https://news.kmikeym.com/meet-the-man-who-sold-his-fate-to-investors-at-1-a-share/'
+    title: 'The Man Who Sold Shares of Himself',
+    source: 'The Hustle',
+    url: 'https://news.kmikeym.com/the-man-who-sold-shares-of-himself/'
+  },
+  {
+    title: 'The World\'s First Publicly Traded Person',
+    source: 'Marketplace',
+    url: 'https://www.marketplace.org/2021/04/15/publicly-traded-person-shareholders-mike-merrill/'
   }
 ]
 
@@ -254,7 +269,7 @@ function App() {
               Mike Merrill created <a href="https://kmikeym.com" target="_blank" rel="noopener noreferrer">KmikeyM</a> in 2008, selling shares in himself and letting shareholders vote on his life decisions. What started as an experiment became a {YEARS_TRADED}-year practice in radical transparency and participatory governance.
             </p>
             <p>
-              He's the executive producer of an <a href="https://news.kmikeym.com/mike-merrill-to-executive-produce-ipo-series-with-amazon-and-sony-pictures-television/" target="_blank" rel="noopener noreferrer">Amazon & Sony Pictures television series</a> based on his life, and currently serves as Head of Content at <a href="https://vibes.diy" target="_blank" rel="noopener noreferrer">Vibes DIY</a>. Previously he co-founded Chroma (acquired), went through the Barclays Fintech Accelerator and the Nike+ Accelerator, and spent ten years at <a href="https://panic.com" target="_blank" rel="noopener noreferrer">Panic</a>.
+              He's been the executive producer on a number of projects and short films, including the award-winning <a href="https://blippo.plus" target="_blank" rel="noopener noreferrer">Blippo+</a>, and currently serves as Head of Content at <a href="https://vibes.diy" target="_blank" rel="noopener noreferrer">Vibes DIY</a>. Previously he co-founded Chroma (acquired), went through the Barclays Fintech Accelerator and the Nike+ Accelerator, and spent ten years at <a href="https://panic.com" target="_blank" rel="noopener noreferrer">Panic</a>.
             </p>
             <p>Based in Los Angeles, CA.</p>
           </div>
